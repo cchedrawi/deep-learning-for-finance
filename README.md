@@ -1,1 +1,1 @@
-# deep-learning-for-finnce
+# deep-learning-for-finance
